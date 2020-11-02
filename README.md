@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+
+## whoami
+
+My name is Marz and my pronouns are they/them.
+
+## pwd
+
+This is my GitHub profile.
+You can also [find me on LinkedIn.](https://www.linkedin.com/in/marzily/)
+
 
 <!--
 **marzvrover/marzvrover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
