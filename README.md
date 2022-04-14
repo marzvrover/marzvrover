@@ -7,7 +7,7 @@ My name is Marz and my pronouns are they/them.
 ## pwd
 
 This is my GitHub profile.
-You can also [find me on LinkedIn.](https://www.linkedin.com/in/marzily/)
+You can also [find me on LinkedIn.](https://www.linkedin.com/in/marzvrover/)
 
 
 <!--
